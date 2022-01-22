@@ -1,2 +1,9 @@
 Question 
 write some stept how git is working and  commands 
+First steps with git:-git init,git add .,git commit,git status,git config,git branch,gitcheckout,git merge,git remote,
+git clone,git pull,git push
+1,create repository(project)
+2,copy(clone) the repostory to your local machine
+3,Add a file to your local and commit(save)
+4,push your changes to your branch
+5,make a change to your file with a git hosting tool and commit

@@ -1,0 +1,4 @@
+Q1
+how git is working
+Q2
+catagorize git and github commands

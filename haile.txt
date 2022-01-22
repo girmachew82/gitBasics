@@ -3,3 +3,7 @@ write some stept how git is working and  commands
  git is work with the commands like
 git init
 thanks teacher
+	
+	Q2
+	
+Catacorize local and remote commnads

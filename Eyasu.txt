@@ -1,2 +1,8 @@
 Question 
 write some stept how git is working and  commands 
+   -git works by excuting commands like: 
+         -git init : to initialize a local git repository
+         -git add : to add modifired file to the local repository
+         -git commit : save changes to the repository
+         -git remote add origin <URL> 
+         -git push : save changes to the remote

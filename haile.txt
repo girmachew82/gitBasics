@@ -2,4 +2,34 @@ Question
 write some stept how git is working and  commands 
  git is work with the commands like
 git init
+git add 
+git commit
+git push
+git branch
+git restore 
+git pull
+etc
 thanks teacher
+
+
+
+	
+	Q2
+	
+Catacorize local and remote commnads
+********************************************************
+******local commands  ****  
+git add 
+git commit
+git branch
+
+
+*****remote commands ******
+git push
+git clone
+git pull
+git fetch
+git remote -v: ~~~~~List the current remotes associated with the local repository
+git remote add [name] [URL]:~~~~ to Add a remote
+git remote remove [name]:~~~~~ Remove a remote
+

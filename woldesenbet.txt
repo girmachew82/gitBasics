@@ -1,2 +1,14 @@
 Question 
-write some stept how git is working and  commands 
+write some stept how git is working and  commands
+-->git is a distributed control system it works 
+       first we need to start with 'git init command'
+       and create a repository the above command is run in the current directory
+
+-->some git commands
+              -git init
+              -git status
+              -git add .
+  	
+	Q2
+	
+Catacorize local and remote commnads

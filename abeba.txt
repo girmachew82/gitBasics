@@ -1,5 +1,6 @@
 Question 
 write some stept how git is working and  commands 
+<<<<<<< HEAD
 First steps with git:-git init,git add .,git commit,git status,git config,git branch,gitcheckout,git merge,git remote,
 git clone,git pull,git push
 1,create repository(project)
@@ -7,3 +8,13 @@ git clone,git pull,git push
 3,Add a file to your local and commit(save)
 4,push your changes to your branch
 5,make a change to your file with a git hosting tool and commit
+=======
+	
+	Q2
+	
+Q2) Catacorize local and remote commnads
+Ans 1) git init,git add,git commit, git status,git config,git branch,git checkout,git merge,
+git clone,git pull,git push
+Ans 2) The git remote command lets you create, view and delete connection to other repositories.
+add<shortname>, remove<name>, rename<old name>
+git remote,git fetch,gitpush, git pull

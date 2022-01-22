@@ -1,1 +1,18 @@
 git commands
+
+git init
+
+git add <.> <*.extension> <file>
+
+git config --global user.name=''
+
+git config --global user.email=''
+
+git commit -m"Message"
+
+git remote add origin <URL>
+git push -u origin <Brancg>
+//-----------------------------------------//
+git status
+git log
+

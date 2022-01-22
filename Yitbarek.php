@@ -5,7 +5,7 @@
 <body>
   <p>
   Question <br>
-  write some stept how git is working and  commands
+  write some stept how git is working and  commands <br>
     
     <ol>
     <li>Got the file where you have your project</li>

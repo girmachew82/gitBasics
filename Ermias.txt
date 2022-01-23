@@ -1,4 +1,4 @@
-Question 
+﻿Question 
 write some stept how git is working and  commands 
 To start with, here’s a list of common commands you will use when working with Git:
 
@@ -6,3 +6,8 @@ git init — initializes a repository
 git checkout <branch> — checks out a branch from repository into the working directory
 git add <file> — adds a change in a file to a change set
 git commit — commits a change set from the working directory into the repository
+
+q2
+==
+
+What is you favorite football clue man?

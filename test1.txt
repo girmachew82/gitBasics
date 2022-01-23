@@ -1,0 +1,11 @@
+
+Questions(10%) Time allowed 35 min
+
+Create a project which is called GitTest1 
+Push to your GitHub repository with the name of GitTest1
+Add girmachew82 as collaborator
+Create IntGit.txt file into GitTest1 and push to GitHub repository you have created above.
+Clone PMS project 
+Add new file called users.php
+Push users.php to PMS Project 
+
